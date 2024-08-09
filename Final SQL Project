@@ -1,4 +1,4 @@
-# Final SQL Project
+# Customer and Sales Data Analysis Using SQL Queries
 # Questions and answers below.
 
 #1. Show Customers (their full names, customer ID, and country) who are not in the US. (Hint: != or <> can be used to say "is not equal to"). 
